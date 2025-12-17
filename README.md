@@ -1,5 +1,5 @@
 # 📘 Judul Proyek
-*Purchase Intention Prediction Using Machine Learning and Deep Learning*
+Prediksi Niat Pembelian Pengunjung E-commerce Menggunakan Machine Learning
 
 ## 👤 Informasi
 - **Nama:** Balqis Amanda Putri Hambali  
