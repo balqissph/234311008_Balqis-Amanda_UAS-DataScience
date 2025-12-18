@@ -3,7 +3,7 @@ Prediksi Niat Pembelian Pengunjung E-commerce Menggunakan Machine Learning
 
 ## 👤 Informasi
 - **Nama:** Balqis Amanda Putri Hambali  
-- **Repo:** https://github.com/balqissph/234311008_Balqis_UAS_Data-Science 
+- **Repo:** [https://github.com/balqissph/234311008_Balqis_UAS_Data-Science](https://github.com/balqissph/234311008_Balqis-Amanda_UAS-DataScience) 
 - **Video:** [...]  
 
 ---
