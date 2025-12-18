@@ -41,8 +41,7 @@ Tahapan utama proyek meliputi:
 ```
 project/
 │
-├── data/                   # Dataset
-│   └── online_shoppers_intention.csv 
+├── data/                   # Dataset (tidak di-commit, download manual)
 │
 ├── notebooks/              # Jupyter notebooks
 │   └── UAS_Data_Science.ipynb
