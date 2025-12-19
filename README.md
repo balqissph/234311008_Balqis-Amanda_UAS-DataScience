@@ -78,7 +78,7 @@ project/
 ---
 
 # 3. 📊 Dataset
-- **Sumber:** UC Irvine (Machine Learning Repository) https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset   
+- **Sumber:** UCI (Machine Learning Repository) https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset   
 - **Jumlah Data:** 12.330 baris x 18 kolom  
 - **Tipe:** CSV (Data Tabular)  
 
