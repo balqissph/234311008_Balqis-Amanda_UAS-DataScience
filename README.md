@@ -24,7 +24,6 @@ Tahapan utama proyek meliputi:
 # 2. 📄 Problem & Goals
 **Problem Statements:**  
 - Platform kesulitan mengidentifikasi pengunjung yang berpotensi melakukan pembelian berdasarkan perilaku kunjungan website.
-- Diperlukan model machine learning yang mampu memprediksi purchase intention secara akurat menggunakan fitur-fitur perilaku pengguna seperti durasi akses, jumlah halaman, page value, dan exit rate.
 - Dataset mengandung variasi nilai dan pola yang kompleks sehingga membutuhkan preprocessing dan teknik pemodelan yang tepat untuk mendapatkan performa prediksi optimal.
 - Diperlukan model machine learning yang mampu memprediksi purchase intention secara akurat menggunakan fitur-fitur perilaku pengguna seperti durasi akses, jumlah halaman, page value, dan exit rate.
   
